@@ -9,17 +9,8 @@ An enterprise-grade, **100% on-premises AI Auditing Assistant** designed for sec
 
 ##  Key Features
 
-<p align="center">
-  <img src="<img width="600" height="159" alt="image" src="https://github.com/user-attachments/assets/1cee35ff-8590-4444-bef3-dec9f8a56578" />
-.png" width="600">
-</p>
+https://github.com/user-attachments/assets/aea45aa1-3f24-46f4-9240-532a8890c966
 
- <img width="600" height="160" alt="WhatsApp Image 2026-05-25 at 3 03 18 PM" src="https://github.com/user-attachments/assets/bf1f2b20-f366-4751-8a00-a75c363a1bf6" />
-
-<video src="YOUR_VIDEO_NAME.mp4" controls="controls" style="max-width: 600px;">
-</video>
-
-###  Multi-Agent Architecture (LangGraph)
 Uses an advanced agentic workflow where a **Planner Node** intelligently analyzes the user's intent and routes the query to specialized expert lanes (Visualization, Policy RAG, or Receipt Auditing).
 
 ###  Automated Business Intelligence
